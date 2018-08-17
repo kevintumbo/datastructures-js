@@ -1,0 +1,28 @@
+{
+  "name": "datastructures-js",
+  "version": "1.0.0",
+  "description": "A project demonstrating understanding and use of data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node --presets es2015 stack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevintumbo/datastructures-js.git"
+  },
+  "keywords": [
+    "data",
+    "structures"
+  ],
+  "author": "Kevin Tumbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevintumbo/datastructures-js/issues"
+  },
+  "homepage": "https://github.com/kevintumbo/datastructures-js#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
